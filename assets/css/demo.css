@@ -373,8 +373,8 @@
     padding: 0px 30px;
     text-align: center;
 }
-.blurred-container .motto .no-right-border{
-    border-bottom: none;
+.blurred-container .motto .no-top-border{
+    border-top: none;
 }
 
 @media (max-width: 768px){
