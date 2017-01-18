@@ -124,7 +124,7 @@
     padding: 10px 20px 20px;
 }
 .card .content .main {
-    min-height: 160px;
+    min-height: 100px;
 }
 .card .back .content .main {
     height: 215px;
@@ -164,14 +164,14 @@
 }
 .card .header {
     padding: 15px 20px;
-    height: 90px;
+    height: 60px;
 }
 .card .motto{
     border-bottom: 1px solid #EEEEEE;
     color: #999999;
     font-size: 14px;
     font-weight: 400;
-    padding-bottom: 10px;
+    padding-bottom: 1px;
     text-align: center;
 }
 
